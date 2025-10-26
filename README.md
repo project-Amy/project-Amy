@@ -21,7 +21,3 @@ Lately, I've been diving into **React Native** too: same attention to detail, ju
 
 React • TypeScript • Next.js • JavaScript • Node.js • Express.js • Tailwind CSS • Prisma • Supabase • Git • GitHub • Vite • HTML • CSS
 
-
----
-
-💡 _Always curious, always ready to learn something new. If you have an interesting project or just want to chat about code, feel free to reach out!_
