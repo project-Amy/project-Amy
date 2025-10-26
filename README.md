@@ -1,0 +1,27 @@
+# Hi! I'm Emy 👋
+
+Front-end developer with a passion for crafting smooth, interactive interfaces that are intuitive to use.
+
+I work primarily with **React** (and its ecosystem), **TypeScript**, and **Next.js**.
+Lately, I've been diving into **React Native** too: same attention to detail, just on smaller screens (and with a few extra challenges!).
+
+---
+
+- 🌍 Based in Marche, Italy
+- 💻 I love turning ideas into simple yet effective web applications
+- ⚙️ Sometimes I venture into backend territory with **Express.js** (because a bit of full-stack never hurts)
+
+---
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,nodejs,express,tailwind,prisma,supabase,git,github,vite,html,css" />
+</p>
+
+React • TypeScript • Next.js • JavaScript • Node.js • Express.js • Tailwind CSS • Prisma • Supabase • Git • GitHub • Vite • HTML • CSS
+
+
+---
+
+💡 _Always curious, always ready to learn something new. If you have an interesting project or just want to chat about code, feel free to reach out!_
