@@ -9,7 +9,7 @@ Lately, I've been diving into **React Native** too: same attention to detail, ju
 
 - 🌍 Based in Marche, Italy
 - 💻 I love turning ideas into simple yet effective web applications
-- ⚙️ Sometimes I venture into backend territory with **Express.js** (because a bit of full-stack never hurts)
+- ⚙️ I complement my front-end work with backend development in Express.js
 
 ---
 
