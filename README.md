@@ -7,7 +7,7 @@ Lately, I've been diving into **React Native** too: same attention to detail, ju
 
 ---
 
-- 🌍 Based in Marche, Italy
+- 🌍 Based in Thiene, Italy
 - 💻 I love turning ideas into simple yet effective web applications
 - ⚙️ I complement my front-end work with backend development in Express.js
 
