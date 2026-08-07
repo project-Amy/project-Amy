@@ -1,12 +1,10 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f172a,1e293b,334155&height=300&section=header&text=Emy%20Sgalippa&fontSize=80&fontColor=f8fafc&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20React%20%26amp%3B%20React%20Native&descAlignY=55&descAlign=50)
 
   <p align="center">
-    <a href="https://emysgalippa.dev/"><img 
-  src="https://img.shields.io/badge/Portfolio-emysgalippa.dev-0f172a?style=for-the-badge&logo=vercel&logoColor=f8fafc" /></a>
-    <a href="https://www.linkedin.com/in/emysgalippa/"><img 
-  src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=f8fafc" /></a>
-    <a href="mailto:emysgalippa@gmail.com"><img 
-  src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f8fafc" /></a>
+    <a href="https://emysgalippa.dev/"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/emysgalippa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  /></a>
+    <a href="mailto:emysgalippa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
   <p align="center">
