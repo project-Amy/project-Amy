@@ -31,7 +31,7 @@
 
   <p align="center">
     <sub>Frontend: React · Next.js · TypeScript · Tailwind CSS · HTML · CSS · Javascript</sub><br />
-    <sub>Backend: Node.js · Express · Prisma · Supabase · MongoDB </sub><br />
+    <sub>Backend: Node.js · Express · Prisma · Supabase · MongoDB · PostgreSQL</sub><br />
     <sub>Mobile: React Native · Onesignal · Sentry · Supabase</sub>
   </p>
 
